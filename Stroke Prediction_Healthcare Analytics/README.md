@@ -11,7 +11,7 @@ the United States. For this reason, stroke is considered a severe disease and ha
 subject of extensive research, not only in the medical field but also in data science and machine
 learning studies.
 
-# Dataset Description -
+## Dataset Description -
 
 The dataset used in this article contains 5110 records of patients. Each patient has 12 columns
 each referring to a concrete attribute. Most of these attributes correspond to medical records or
@@ -23,7 +23,7 @@ suffered from heart diseases and/or hypertension, is more likely to suffer from 
 stroke is also an attribute in the dataset and indicates in each medical record if the patient
 suffered from a stroke disease or not.
 
-# Data Dictionary -
+### Data Dictionary -
 
 a)Id - Unique Id <br>
 b)gender <br>
