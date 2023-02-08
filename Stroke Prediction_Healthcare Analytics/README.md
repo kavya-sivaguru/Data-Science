@@ -25,15 +25,15 @@ suffered from a stroke disease or not.
 
 # Data Dictionary -
 
-#####a)Id - Unique Id
-#####b)gender
-#####c)age
-#####d)hypertension - Binary Feature
-#####e)Heart_disease - Binary Feature
-#####f)Ever_married - Has the patient ever been married
-#####g)Work_type - Work type of a patient
-#####h)Residency_type - Residency type of patient
-#####i)avg_glucose_level - Average Glucose level in the blood
-#####j)bmi - Body mass Index
-#####k)smoking_status - Smoking status of the patient
-#####l)stroke - stroke event
+a)Id - Unique Id <br>
+b)gender <br>
+c)age
+d)hypertension - Binary Feature
+e)Heart_disease - Binary Feature
+f)Ever_married - Has the patient ever been married
+g)Work_type - Work type of a patient
+h)Residency_type - Residency type of patient
+i)avg_glucose_level - Average Glucose level in the blood
+j)bmi - Body mass Index
+k)smoking_status - Smoking status of the patient
+l)stroke - stroke event
